@@ -1,0 +1,8 @@
+Python 1991-yilda chiqarilgan dasturlash tili. Uning muallifi Guido van Rossum.
+Python sodda sintaksisi tufayli boshlovchilar orasida mashhur.
+Java 1995-yilda Sun Microsystems tomonidan chiqarilgan. Java korporativ tizimlarda
+va Android ilovalarida keng qo'llaniladi.
+JavaScript brauzerda ishlaydigan til. U veb-sahifalarni interaktiv qiladi.
+Node.js yordamida JavaScript serverda ham ishlaydi.
+Go tilini Google kompaniyasi 2009-yilda yaratgan. Go tez kompilyatsiya
+va parallel dasturlash uchun qulay.
